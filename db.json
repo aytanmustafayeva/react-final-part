@@ -1,0 +1,131 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Electrical and Mechanical 1",
+      "description": "Build modern web applications using React, Node.js, and more.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Mechanical 2",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 3,
+      "title": "Electrical and Mechanical 3",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 4,
+      "title": "Electrical and Mechanical 4",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 5,
+      "title": "Electrical and Mechanical 5",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 6,
+      "title": "Electrical and Mechanical 6",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 7,
+      "title": "Electrical and Mechanical 7",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 8,
+      "title": "Electrical and Mechanical 8",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 9,
+      "title": "Electrical and Mechanical 9",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 10,
+      "title": "Electrical and Mechanical 10",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 11,
+      "title": "Electrical and Mechanical 11",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 12,
+      "title": "Electrical and Mechanical 12",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    }
+  ],
+
+
+"projects": [
+    {
+      "id": 1,
+      "title": "Electrical and Mechanical 1",
+      "description": "Build modern web applications using React, Node.js, and more.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 2,
+      "title": "Electrical and Mechanical 2",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 3,
+      "title": "Electrical and Mechanical 3",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 4,
+      "title": "Electrical and Mechanical 4",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 5,
+      "title": "Electrical and Mechanical 5",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 6,
+      "title": "Electrical and Mechanical 6",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    },
+    {
+      "id": 7,
+      "title": "Electrical and Mechanical 7",
+      "description": "Design intuitive user interfaces and experiences.",
+      "image": "./public/pro-serv-img.png"
+    }
+  ]
+
+  
+ 
+
+
+}
+
+
+
+

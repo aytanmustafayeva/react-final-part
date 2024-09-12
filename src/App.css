@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  border: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+
+.container {
+  max-width: 1131px;
+  width: 94%;
+  margin-inline: auto;
+}
+
+@media screen and (max-width: 320px) {
+  .container {
+    width: 95%;
+    margin: 2rem;
+  }
+}
